@@ -1,4 +1,4 @@
-# scans all NASDAQ, NYSE, AMEX stocks with average volume > 5,000,000 and are optionable
+# scans all NASDAQ, NYSE, AMEX stocks that are optionable
 # Use Yahoo Finance's option chain feature
 # Check if it's optionable here
 # Gathers all data on all calls/puts
